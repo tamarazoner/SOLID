@@ -1,0 +1,15 @@
+{
+    "name": "tamara/app_etl",
+    "authors": [
+        {
+            "name": "Tamara da Silva Zoner",
+            "email": "tamara.zoner@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}
